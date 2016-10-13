@@ -19,4 +19,10 @@ nav ul li {
   display: inline-block;
   list-style-type: none;
   border-radius: 10%;
+  background-color: #713837;
+  color: #fff;
+}
+
+ul li:first-child {
+  padding: .6em;
 }
