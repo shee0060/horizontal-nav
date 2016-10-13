@@ -7,7 +7,7 @@ html {
 }
 
 body {
-  margin: 0.3em;
+  margin: 0;
 }
 
 header {
@@ -19,15 +19,16 @@ header {
 h1 {
   display: inline-block;
   font-family: "Bevan", cursive;
-  font-size: 2rem;
+  font-size: 3rem;
   color: #fff;
-
+  margin: 0.3
 }
 
 nav ul li {
   display: inline-block;
   list-style-type: none;
   background-color: #713837;
+  margin: 0.3;
 }
 
 a {
