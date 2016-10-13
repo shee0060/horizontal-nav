@@ -14,12 +14,13 @@ h1 {
   display: inline-block;
   font-family: "Bevan", cursive;
   font-size: 2rem;
+  color: #fff;
+
 }
 
 nav ul li {
   display: inline-block;
   list-style-type: none;
-  border-radius: 10%;
   background-color: #713837;
 }
 
@@ -29,17 +30,25 @@ a {
 }
 
 ul li:first-child {
+  display: inline-block;
   padding: .6em;
+  border-radius: 10%;
 }
 
 ul li:nth-child(2) {
+  display: inline-block;
   padding: .6em;
+  border-radius: 10%;
 }
 
 ul li:nth-child(3) {
+  display: inline-block;
   padding: 0.6em;
+  border-radius: 10%;
 }
 
 ul li:nth-child(4) {
+  display: inline-block;
   padding: 0.6em;
+  border-radius: 10%;
 }
