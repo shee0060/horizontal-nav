@@ -1,3 +1,7 @@
 html {
-  font-family: 'Bevan', cursive;
+  font-family: "Bevan", cursive;
+}
+
+nav ul li {
+  list-style-type: none;
 }
