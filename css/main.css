@@ -9,11 +9,12 @@ body {
 }
 
 h1 {
+  display: inline-block;
   font-family: "Bevan", cursive;
   font-size: 2rem;
 }
 
 nav ul li {
+  display: inline-block;
   list-style-type: none;
-
 }
