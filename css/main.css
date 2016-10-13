@@ -19,7 +19,7 @@ header {
 h1 {
   display: inline-block;
   font-family: "Bevan", cursive;
-  font-size: 3rem;
+  font-size: 2rem;
   color: #fff;
   margin: 0;
 }
@@ -36,30 +36,35 @@ a {
   text-decoration: none;
 }
 
+ul {
+  padding: 0;
+  margin: 0.3em;
+}
+
 ul li:first-child {
   display: inline-block;
   padding: .5em;
   border-radius: 5%;
-  margin: 0.3em 0em 0em;
+  margin: 0.3em 0em;
 }
 
 ul li:nth-child(2) {
   display: inline-block;
   padding: .5em;
   border-radius: 5%;
-  margin: 0.3em 0em 0em;
+  margin: 0.3em 0em;
 }
 
 ul li:nth-child(3) {
   display: inline-block;
   padding: 0.5em;
   border-radius: 5%;
-  margin: 0.3em 0em 0em;
+  margin: 0.3em 0em;
 }
 
 ul li:nth-child(4) {
   display: inline-block;
   padding: 0.5em;
   border-radius: 5%;
-  margin: 0.3em 0em 0em;
+  margin: 0.3em 0em;
 }
