@@ -1,13 +1,5 @@
 html {
   box-sizing: border-box;
-}
-
-*, *::before, *::after {
-  box-sizing: inherit;
-}
-
-html {
-  box-sizing: border-box;
   line-height: 1.5;
   background-color: #dbd6cf;
   font-family: sans-serif;
@@ -27,7 +19,7 @@ header {
 }
 
 h1 {
-  display: inline-block;
+  display: inline;
   font-family: "Bevan", sans-serif;
   font-size: 1.8rem;
   color: #fff;
@@ -44,6 +36,10 @@ nav ul li {
 a {
   color: #fff;
   text-decoration: none;
+}
+
+a:hover {
+  color: #f33;
 }
 
 ul {
