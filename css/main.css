@@ -22,7 +22,7 @@ h1 {
   display: inline-block;
   font-family: "Bevan", bold;
   font-size: 1.8rem;
-  color: #f33;
+  color: #fff;
   margin: 0;
 }
 
@@ -34,7 +34,7 @@ nav ul li {
 }
 
 a {
-  color: #ff3;
+  color: #fff;
   text-decoration: none;
 }
 
