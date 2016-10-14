@@ -28,7 +28,7 @@ header {
 
 h1 {
   display: inline-block;
-  font-family: "Bevan", ;
+  font-family: "Bevan", sans-serif;
   font-size: 1.8rem;
   color: #fff;
   margin: 0;
