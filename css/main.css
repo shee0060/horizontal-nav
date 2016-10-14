@@ -24,7 +24,7 @@ header {
   width: 100%;
   border-top: #595652 solid;
   border-bottom: #595652 solid;
-  padding: 0.5em;
+
 }
 
 h1 {
@@ -37,9 +37,7 @@ h1 {
 
 nav {
   margin-bottom: 0.6em;
-
 }
-
 
 nav ul li {
   display: inline-block;
@@ -59,7 +57,8 @@ a:hover {
 }
 
 ul {
-  padding: 0;
+  display: inline-block;
+  padding: 0.5em 0.5em 0.5em 0;
 }
 
 ul li:first-child {
