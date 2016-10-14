@@ -1,5 +1,13 @@
 html {
   box-sizing: border-box;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+html {
+  box-sizing: border-box;
   line-height: 1.5;
   background-color: #dbd6cf;
   font-family: sans-serif;
@@ -39,6 +47,7 @@ a {
 }
 
 a:hover {
+  background-color: #fff;
   color: #f33;
 }
 
