@@ -24,6 +24,7 @@ header {
   width: 100%;
   border-top: #595652 solid;
   border-bottom: #595652 solid;
+  padding: 0.75rem 0 0 0;
 }
 
 h1 {
